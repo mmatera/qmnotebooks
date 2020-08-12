@@ -8,5 +8,6 @@ dependencies:
   - numpy
   - matplotlib
   - sfepy
+  - jupyter_contrib_nbextensions
   - pip:
     - git+https://github.com/blaze/dask.git#egg=dask[complete]
